@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/4rivappa/S20200010022/router"
+	"github.com/4rivappa/S20200010022/second-question/router"
 )
 
 func main() {
